@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "298536987217",
+    "project_id": "hira-app-1",
+    "storage_bucket": "hira-app-1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:298536987217:android:296ffb83bc715067c2e670",
+        "android_client_info": {
+          "package_name": "com.example.hmapptest1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "298536987217-4kcjqcs96i3crpbcsjjlsstr0v3lhg17.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDqjWFoxtJKV2wYoXivOXM_tSE-cfJ5qmo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "298536987217-4kcjqcs96i3crpbcsjjlsstr0v3lhg17.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
